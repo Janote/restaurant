@@ -1,0 +1,15 @@
+#content.about-us > div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    padding: 24px;
+    text-align: center;
+}
+
+#content.about-us img {
+    width: min(160px, 80vw);
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+}

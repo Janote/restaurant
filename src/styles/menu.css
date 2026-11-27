@@ -1,0 +1,4 @@
+#content.menu img {
+    width: min(200px, 45vw);
+    height: auto;
+}

@@ -1,0 +1,9 @@
+#content.home {
+    flex-direction: column;
+    text-align: center;
+}
+
+#content.home img {
+    width: min(200px, 85vw);
+    height: auto;
+}
